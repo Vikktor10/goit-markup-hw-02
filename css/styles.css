@@ -1,0 +1,86 @@
+:root {
+    --main-text-color: #212121;
+}
+
+/* цвет основного текста #212121; */
+/* вторичный цвет текста #757575; */
+/* белый #FFFFFF; */
+/* вторичный цвет фона #F5F4FA */
+/* акцент #2196F3; */
+
+body {
+    background-color: #fff;
+    color: #757575;
+}
+
+/* Швпка сайта */
+
+ .logo {
+     color: #2196F3;;
+ }
+
+ ul {
+     list-style: none;
+ }
+
+ /* Site nav */
+
+ .site-nav .link {
+     color: #2196F3;
+ }
+ 
+ .site-nav .link:hover,
+ .site-nav .link:focus {
+     color: #212121;
+ }
+
+ .site-contact .contact:hover,
+ .site-contact .contact:focus {
+     color: #757575;
+ }
+
+ /* Герой */
+
+ .main-heading {
+     color: #FFFFFF;
+ }
+
+ .main-button:hover,
+ .main-button:focus {
+    background: #2196F3;
+    color: #FFFFFF;
+ }
+
+ .dignity-title {
+     color: #212121;
+ }
+
+ .dignity-text {
+     color: #757575;
+ }
+
+ .activity-title {
+    color: #212121;
+ }
+
+ .team-title {
+     color: #212121;
+ }
+
+ .team-name {
+     color: #212121;
+ }
+
+ .team-text {
+     color: #757575;
+ }
+
+ /* Футер */
+
+ .vault-text {
+     color: #FFFFFF;;
+ }
+
+ .vault-contact {
+    color: rgba(255, 255, 255, 0.6);
+ }
