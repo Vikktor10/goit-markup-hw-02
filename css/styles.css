@@ -200,6 +200,7 @@ a {
     font-family: inherit;
     font-weight: 500;
     line-height: 1.6;
+    background: #F5F4FA;
  }
 
 .filter-item:hover,
